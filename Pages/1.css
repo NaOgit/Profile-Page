@@ -1,0 +1,25 @@
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: rgb(71,71,71);
+    color: white;
+    font-size: 17px;
+    border: 0;
+}
+
+
+.navbar-brand{
+  float: left;
+  min-height: 50px;
+  padding: 0 15px 5px;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover{
+  color: #FFF;
+  background-color: rgb(89,89,89);
+}
+
+body{
+  background-image: url(../Images/Cont.jpg);
+  background-size: 100%;
+}
