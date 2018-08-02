@@ -1,0 +1,73 @@
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: rgb(71,71,71);
+    color: white;
+    padding: 0 0;
+    font-size: 17px;
+    border: 0;
+}
+
+.navbar-brand{
+  float: left;
+  min-height: 50px;
+  padding: 0 15px 5px;
+}
+
+.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover{
+  color: #FFF;
+  background-color: rgb(89,89,89);
+}
+
+.carousel-caption{
+  text-transform: uppercase;
+}
+
+.btn{
+  font-size: 15px;
+  color: white;
+  padding: 12px 22px;
+  background: rgb(199,36,25);
+  border: 2px solid white;
+
+}
+
+.container{
+  margin: 4% auto;
+}
+
+h2{
+  margin: 2% auto;
+}
+
+#icon{
+  max-width: 150px;
+  margin: 1% auto;
+}
+
+@media screen and (max-width:600px) {
+  .carousel-caption{
+    display: none;
+  }
+  h4{
+    font-size: 15px;
+  }
+
+  #icon{
+    max-width: 100px;
+  }
+}
+/* .row img{
+  width: 25%;
+  margin-top: 100px;
+
+}
+
+.row{
+
+
+}
+
+main {
+  background-image: : url("Images/background.jpg");
+} */
