@@ -3,10 +3,10 @@
     border-radius: 0;
     background-color: rgb(71,71,71);
     color: white;
-    padding: 0 0;
     font-size: 17px;
     border: 0;
 }
+
 
 .navbar-brand{
   float: left;
@@ -25,6 +25,7 @@
 
 .btn{
   font-size: 15px;
+  text-decoration: none;
   color: white;
   padding: 12px 22px;
   background: rgb(199,36,25);
@@ -32,8 +33,15 @@
 
 }
 
-.container{
-  margin: 4% auto;
+.btn a{
+  text-decoration: none;
+  color: white;
+}
+
+.carousel-control{
+  max-height: 45px;
+  margin-top: 400px
+
 }
 
 h2{
