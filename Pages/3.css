@@ -22,4 +22,26 @@
 body{
   background-image: url(../Images/tech-exp1.jpg);
   background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.able{
+  color: white;
+  text-align: center;
+  height: 790px;
+  background-color: rgba(128,128,128, 0.8);
+
+}
+
+.able ul{
+  list-style-type: none;
+  margin: auto;
+
+}
+
+.able i{
+  padding-top: 50px;
+  padding-right: 50px;
+  font-size: 20px;
 }
