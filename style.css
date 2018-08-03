@@ -55,7 +55,8 @@ h2{
 }
 
 @media screen and (max-width:600px) {
-  .carousel-caption{
+
+  .carousel-indicators, .carousel-control, .carousel-inner, .carousel-caption{
     display: none;
   }
   h4{

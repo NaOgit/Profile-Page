@@ -22,6 +22,8 @@
 body{
   background-image: url(../Images/Cont.jpg);
   background-size: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .able {
