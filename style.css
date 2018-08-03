@@ -21,6 +21,7 @@
 
 .carousel-caption{
   text-transform: uppercase;
+  margin-bottom: 5%;
 }
 
 .btn{
@@ -39,7 +40,7 @@
 }
 
 .carousel-control{
-  max-height: 45px;
+  max-height: 90px;
   margin-top: 400px
 
 }

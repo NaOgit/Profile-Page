@@ -23,3 +23,17 @@ body{
   background-image: url(../Images/Cont.jpg);
   background-size: 100%;
 }
+
+.able {
+  height: 100%;
+  margin: auto;
+  color: white;
+  background-color: rgba(128,128,128,0.8);
+  margin-top:  290px;
+  padding: 1% 2%;
+  border-radius: 0.5%;
+}
+
+.able p{
+  font-size: 17px;
+}
