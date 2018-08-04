@@ -26,6 +26,10 @@ body{
   background-size: cover;
 }
 
+.profile img{
+  width: 150%;
+}
+
 .able {
   height: 100%;
   margin: auto;
@@ -38,4 +42,13 @@ body{
 
 .able p{
   font-size: 17px;
+}
+
+@media screen and (max-width:900px){
+  .profile img{
+    width: 100%;
+  }
+  .able{
+    margin-top: 20px;
+  }
 }
